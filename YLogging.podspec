@@ -6,11 +6,11 @@ Pod::Spec.new do |s|
           #3.  
           s.summary         = "Sort description of 'YLogging' framework"
           #4.
-          s.homepage        = "http://www.yudiz.com"
+          s.homepage        = "https://github.com/krishnachaitanyavulchi/Ylogging/tree/master/Ylogging/ServiceClass"
           #5.
           s.license              = "MIT"
           #6.
-          s.author               = "AKanjariya"
+          s.author               = “Chaitanya”
           #7.
           s.platform            = :ios, "10.0"
           #8.
